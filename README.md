@@ -1,3 +1,3 @@
 # pradipchaudhary.com.np
 
-Personal Website [pradipchaudhary.com.np](https://github.com/pradipchaudhary)
+Personal Website [pradipchaudhary.com.np](http://pradipchaudhary.com.np/){:target="\_blank"}
